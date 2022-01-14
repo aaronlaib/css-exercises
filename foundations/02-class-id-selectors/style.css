@@ -1,0 +1,19 @@
+.red-highlight {
+  background-color: lightcoral;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#twoblue {
+  color: blue;
+  font-size: 36px;
+}
+
+.threefont {
+  font-size: 24px;
+}
+
+#fourgreen {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
