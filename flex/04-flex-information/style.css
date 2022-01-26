@@ -14,12 +14,6 @@ img {
   margin-bottom: 32px;
 }
 
-.all-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 .img-text-main-container {
   display: flex;
   justify-content: center;
