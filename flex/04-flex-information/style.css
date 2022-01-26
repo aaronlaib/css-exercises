@@ -21,6 +21,8 @@ img {
 
 .img-text-main-container {
   display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 .img-text {
