@@ -56,14 +56,9 @@ ul {
   margin: 0;
 }
 
-.left-sub-header {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
+.left-sub-header,
 .right-sub-header {
   display: flex;
-  gap: 16px;
   align-items: center;
+  gap: 16px;
 }
