@@ -78,3 +78,8 @@ button.cancel {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
