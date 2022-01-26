@@ -13,6 +13,19 @@ img {
   text-align: center;
 }
 
+.all-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.img-text-main-container {
+  display: flex;
+}
+
+.img-text {
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
@@ -24,17 +37,4 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
-}
-
-.img-text-main-container {
-  display: flex;
-}
-
-.all-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.img-text {
 }
