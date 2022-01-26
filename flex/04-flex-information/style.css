@@ -25,6 +25,11 @@ img {
   background: #eee;
 }
 
-.images-text {
+.img-text-main-container {
   display: flex;
+}
+
+.all-content {
+  display: flex;
+  flex-direction: column;
 }
