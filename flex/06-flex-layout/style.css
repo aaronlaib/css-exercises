@@ -39,10 +39,12 @@ a {
 
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .left-links {
@@ -51,4 +53,5 @@ a {
 
 .right-links {
   display: flex;
+  justify-content: flex-end;
 }
