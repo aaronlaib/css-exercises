@@ -46,20 +46,16 @@ a {
   color: black;
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-}
-
+.header,
 .footer {
   display: flex;
   justify-content: space-between;
 }
 
-.left-links {
-  display: flex;
+.footer {
 }
 
+.left-links,
 .right-links {
   display: flex;
 }
