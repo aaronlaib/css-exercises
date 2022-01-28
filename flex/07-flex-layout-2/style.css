@@ -41,6 +41,7 @@ body {
 .cards {
   display: flex;
   padding: 32px;
+  flex-wrap: wrap;
 }
 
 ul {
