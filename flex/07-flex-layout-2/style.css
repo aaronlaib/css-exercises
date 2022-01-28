@@ -45,6 +45,7 @@ body {
   display: flex;
   padding: 32px;
   flex-wrap: wrap;
+  gap: 16px;
 }
 
 ul {
