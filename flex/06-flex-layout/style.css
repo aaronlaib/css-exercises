@@ -58,4 +58,6 @@ a {
 .left-links,
 .right-links {
   display: flex;
+  padding: 14px;
+  gap: 14px;
 }
